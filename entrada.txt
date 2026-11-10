@@ -1,0 +1,9 @@
+Ordem de servico - 22/08/2026 as 09:45
+
+Cliente: Oficina Mecanica Vale Verde ME, CNPJ 98.765.432/0001-10, orcamento de R$ 3.280,50 com desconto de 8%.
+Retorno por e-mail: carlos.pereira@valeverde.com.br ou celular (11) 98765-4321.
+Local do atendimento: Av. Brasil, 1500, CEP 01310-200, Sao Paulo-SP.
+Tecnica responsavel: Ana Lima, CPF 987.654.321-00, RG 32.145.678-X.
+Carro atendido: placa QRS-4821, retirada prevista para 23/08/2026 as 17:30:15.
+Acompanhe pelo site: https://www.valeverde.com.br/ordens
+Telefone da recepcao: 11 3456-7890
